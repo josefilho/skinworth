@@ -1,4 +1,5 @@
-import React, { useState, ChangeEvent } from 'react';
+import React, { useState } from 'react';
+import type { ChangeEvent } from 'react';
 
 // --- Funções Utilitárias (movidas para fora do componente) ---
 
